@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+}
+
+.header {
+}
+.container {
+  min-width: 1200px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+.header-top {
+  padding-top: 32px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+}
+.logo-img {
+}
+.menu {
+}
+.menu-list {
+  display: flex;
+  gap: 0 30px;
+}
+.menu-item {
+}
+.menu-link {
+  text-transform: uppercase;
+  color: #0c3e2e;
+  font-weight: 500;
+  font-size: 16px;
+}
+.phone {
+}
